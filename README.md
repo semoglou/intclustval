@@ -19,8 +19,8 @@ This package is part of a small clustering-validation ecosystem:
 
 | Package | Purpose |
 |---|---|
-| [`intclustval`](https://github.com/semoglou/intclustval) | Internal clustering validation metrics |
-| [`extclustval`](https://github.com/semoglou/extclustval) | External clustering validation metrics using ground-truth labels |
+| [`intclustval`](https://pypi.org/project/intclustval/) | Internal clustering validation metrics |
+| [`extclustval`](https://pypi.org/project/extclustval/) | External clustering validation metrics using ground-truth labels |
 | [`sil-score`](https://pypi.org/project/sil-score/) | Exact and approximate silhouette scoring |
 
 Silhouette scores are intentionally not included in `intclustval`, because they are provided by the separate [`sil-score`](https://pypi.org/project/sil-score/) package.
