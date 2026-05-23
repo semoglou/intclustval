@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="extclustval",
+    name="intclustval",
     version="0.1.0",
-    description="A lightweight Python package for external clustering validation metrics.",
+    description="A lightweight Python package for internal clustering validation metrics.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="Aggelos Semoglou",
     author_email="a.semoglou@outlook.com",
     license="MIT",
-    url="https://github.com/semoglou/extclustval",
+    url="https://github.com/semoglou/intclustval",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
