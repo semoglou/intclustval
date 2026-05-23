@@ -155,7 +155,7 @@ print(micro_score)
 print(macro_score)
 ```
 
-The [`sil-score`](https://github.com/semoglou/sil-score) package also supports approximate silhouette scoring through its `approximation` argument.
+The [`sil-score`](https://github.com/semoglou/sil_score) package also supports approximate silhouette scoring through its `approximation` argument.
 
 ## Metric definitions
 
