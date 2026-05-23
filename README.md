@@ -1,5 +1,12 @@
 # intclustval
 
+<p align="center">
+  <a href="https://pypi.org/project/intclustval/"><img src="https://img.shields.io/pypi/v/intclustval.svg?color=blue" alt="PyPI version"></a>&nbsp;&nbsp;
+  <a href="https://pypi.org/project/intclustval/"><img src="https://img.shields.io/pypi/pyversions/intclustval.svg" alt="Python versions"></a>&nbsp;&nbsp;
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>&nbsp;&nbsp;
+  <a href="https://pepy.tech/project/intclustval"><img src="https://pepy.tech/badge/intclustval" alt="Downloads"></a>
+</p>
+
 A lightweight Python package for internal clustering validation metrics.
 
 `intclustval` provides a simple `InternalClusterScore` class for evaluating clustering quality using internal validation metrics.
